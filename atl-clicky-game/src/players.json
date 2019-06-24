@@ -6,46 +6,57 @@
     },
     {
       "id": 2,
-      "image": "gressel.jpg"    
+      "image": "gressel.jpg",
+      "name": "Julian Gressel"    
     },
     {
       "id": 3,
-      "image": "guz.jpg"
+      "image": "guz.jpg",
+      "name": "Brad Guzan"
     },
     {
       "id": 4,
-      "image": "lgp.jpg" 
+      "image": "lgp.jpg",
+      "name": "Leandro González Pírez"
     },
     {
       "id": 5,
-      "image": "martinez.jpg"
+      "image": "martinez.jpg",
+      "name": "Joesef Martinez"
     },
     {
       "id": 6,
-      "image": "nagbe.jpg"
+      "image": "nagbe.jpg",
+      "name": "Darlington Nagbe"
     },
     {
       "id": 7,
-      "image": "parkhurst.jpg"
+      "image": "parkhurst.jpg",
+      "name": "Michael Parkhurst"
     },
     {
       "id": 8,
-      "image": "pity.jpg"
+      "image": "pity.jpg",
+      "name": "Pity Martinez"
     },
     {
       "id": 9,
-      "image": "pogba.jpg"
+      "image": "pogba.jpg",
+      "name": "Florentin Pogba"
     },
     {
       "id": 10,
-      "image": "remdi.jpg"
+      "image": "remdi.jpg",
+      "name": "Eric Remedi"
     },
     {
       "id": 11,
-      "image": "robinson.jpg"
+      "image": "robinson.jpg",
+      "name": "Miles Robinson"
     },
     {
       "id": 12,
-      "image": "villalba.jpg"
+      "image": "villalba.jpg",
+      "name": "Tito Villalba"
     }
   ]
