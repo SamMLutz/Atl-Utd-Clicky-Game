@@ -6,9 +6,7 @@ import Footer from "./components/Footer/Footer.js";
 import player from "./players.json";
 import "./App.css";
 
-
-
-//sets state to 0 or empty
+//sets state for our components
 class App extends Component {
     state = {
         player,
