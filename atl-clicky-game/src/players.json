@@ -1,7 +1,8 @@
 [
     {
       "id": 1,
-      "image": "barco.jpg"
+      "image": "barco.jpg",
+      "name": "Ezequiel Barco"
     },
     {
       "id": 2,

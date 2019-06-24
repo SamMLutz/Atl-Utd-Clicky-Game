@@ -17,8 +17,7 @@ class App extends Component {
 //when you click on a player get the current player and remove them from the array
   imageClick = e => {
     const currentPlayer = e.target.alt;
-    const pickedPlayer =
-      this.state.clickedPlayers.indexOf(currentPlayer) > -1;
+    const pickedPlayer = this.state.clickedPlayers.indexOf(currentPlayer) > -1;
 
 //if you click on a player that has already been clicked, reset the game and shuffle players
     if (pickedPlayer) {
@@ -75,6 +74,7 @@ class App extends Component {
               id={player.id}
               key={player.id}
               image={player.image}
+              name={player.name}
             />
           ))}
         </div>
