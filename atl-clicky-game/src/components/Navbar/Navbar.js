@@ -3,8 +3,8 @@ import React, { Component } from "react";
 class Navbar extends Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <p className="navbar-brand" href="#">Clicky Game</p>
+      <nav className="navbar navbar-expand-lg navbar-light bg-light justify-content-between">
+        <p className="navbar-brand " href="#">Clicky Game</p>
 
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
